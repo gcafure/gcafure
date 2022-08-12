@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, welcome! 🖐️
 
-<!--
-**gcafure/gcafure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Guilherme and I'm 25 years old.
 
-Here are some ideas to get you started:
+I'm a system analysis and development student who loves technology and how it can transform people's lives...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   💻 Mid-level Developer Analyst at Montreal Informática;
+-   🚀 Java, Spring Framework, React;
+-   🎓 Graduating in Systems Analysis and Development;
+-   📚 Studying Clean Code, SOLID design principles and software architecture;
+-   💬 Ask me about tech, sports, astronomy, games and coffee.
+
+--- 
+
+### Social 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cafure/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gcafure_/)
