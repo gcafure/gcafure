@@ -6,7 +6,7 @@ I'm a system analysis and development student who loves technology and how it ca
 
 -   💻 Mid-level Developer Analyst at Montreal Informática;
 -   🚀 Java, Spring Framework, React;
--   🎓 Graduating in Systems Analysis and Development;
+-   🎓 Graduate in Systems Analysis and Development;
 -   📚 Studying Clean Code, SOLID design principles and software architecture;
 -   💬 Ask me about tech, sports, astronomy, games and coffee.
 
