@@ -5,7 +5,7 @@ My name is Guilherme and I'm 27 years old.
 I'm a software engineer who loves technology and how it can transforms people's lives...
 
 -   💻 Software Engineer at Montreal Informática;
--   🚀 Java, Spring Framework, React, Docker, RabbitMQ;
+-   🚀 Java, Spring Framework, React, SQL, Docker, RabbitMQ;
 -   🎓 Graduate in Systems Analysis and Development;
 -   📚 Studying Clean Code, SOLID design principles and software architecture;
 -   💬 Ask me about tech, sports, astronomy, games and coffee.
